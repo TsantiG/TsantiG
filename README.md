@@ -10,7 +10,7 @@
 
 ## 📂 Proyectos Destacados
 
-- [**Proyecto 1**](https://github.com/TsantiG/pagina_Gestion_De_Proyectos) - Breve descripción del proyecto.
+- [**Proyecto 1**](https://github.com/TsantiG/pagina_Gestion_De_Proyectos) - Página de Gestion de Proyectos
 - [**Proyecto 2**](https://github.com/tu-usuario/proyecto2) - Breve descripción del proyecto.
 - [**Proyecto 3**](https://github.com/tu-usuario/proyecto3) - Breve descripción del proyecto.
 
