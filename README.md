@@ -23,7 +23,7 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
+<p align="center" Style="backgraund-color: white">
   <img src="https://github.com/TsantiG/IMG/blob/main/919827.png?raw=true" width="80" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/919826.png?raw=true" width="80" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/5968332.png?raw=true" width="80" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
