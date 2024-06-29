@@ -13,7 +13,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TsantiG&show_icons=true&theme=dark)
 
 ## 🛠️ Tecnologías y Herramientas
 
