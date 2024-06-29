@@ -1,14 +1,12 @@
 
-![Mi Banner](https://github.com/TsantiG/IMG/blob/main/programacion.jpg?raw=true)
-
 <h1>👋 Hi, I’m @TsantiG / Hola, Soy @TsantiG</h1>
 
 <h3>🚀 Mis intereses</h3>
 
-
-<p>- 👀 Me interesa la programación y el diseño en particular, además de tener buena salud física.</p> <br>
+<p>- 👀 Me interesa la programación y el diseño en particular, además de cuidarme para deter una buena salud física.</p> <br>
 <p>- 🌱Actualmente estoy aprendiendo ciencia de datos y  desarrollo de aplicaciones moviles además de mejorar conocimientos previos.</p>
 
+![Mi Banner](https://github.com/TsantiG/IMG/blob/main/programacion.jpg?raw=true)
 
 ## 📂 Proyectos Destacados
 
