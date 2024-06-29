@@ -27,11 +27,11 @@
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://github.com/TsantiG/IMG/blob/main/919827.png?raw=true" width="150" />
-  <img src="https://github.com/TsantiG/IMG/blob/main/919826.png?raw=true" width="150" />
-  <img src="https://github.com/TsantiG/IMG/blob/main/5968332.png?raw=true" width="150" />
-  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284965.webp?token=GHSAT0AAAAAACUHGOSQBRTJG2AQYJIKJTXSZT7RMBQ" width="150" />
-  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284686.webp?token=GHSAT0AAAAAACUHGOSQ7WRKXOZ5XPC4UVJCZT7RMSA" width="150" />
+  <img src="https://github.com/TsantiG/IMG/blob/main/919827.png?raw=true" width="150" style="margin: 10px 20px;" />
+  <img src="https://github.com/TsantiG/IMG/blob/main/919826.png?raw=true" width="150" style="margin: 10px 20px;" />
+  <img src="https://github.com/TsantiG/IMG/blob/main/5968332.png?raw=true" width="150" style="margin: 10px 20px;" />
+  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284965.webp?token=GHSAT0AAAAAACUHGOSQBRTJG2AQYJIKJTXSZT7RMBQ" width="150" style="margin: 10px 20px;" />
+  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284686.webp?token=GHSAT0AAAAAACUHGOSQ7WRKXOZ5XPC4UVJCZT7RMSA" width="150" style="margin: 10px 20px;" />
   <img src="https://github.com/TsantiG/IMG/blob/main/226777.png?raw=true" width="150" />
   <img src="https://github.com/TsantiG/IMG/blob/main/1199128.png?raw=true" width="150" />
 </p>
