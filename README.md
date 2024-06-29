@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m @TsantiG / Hola, Soy @TsantiG</h1>
 
 
-![Mi Banner](https://github.com/TsantiG/IMG/blob/main/Medellin-IMG3.jpeg?raw=true)
+![Mi Banner](https://github.com/TsantiG/IMG/blob/main/programacion.jpg?raw=true)
 
 <h3>🚀 Mis intereses</h3>
 
