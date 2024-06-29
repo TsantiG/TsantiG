@@ -11,9 +11,15 @@
 ## 📂 Proyectos Destacados
 
 - [**Proyecto 1**](https://github.com/TsantiG/pagina_Gestion_De_Proyectos) - Página de Gestion de Proyectos
-- [**Proyecto 2**](https://github.com/tu-usuario/proyecto2) - Breve descripción del proyecto.
-- [**Proyecto 3**](https://github.com/tu-usuario/proyecto3) - Breve descripción del proyecto.
+- [**Proyecto 2**](https://github.com/TsantiG/API_CLIMA) - Página Para Mostrar El Pronostico Del Clima y El Clima Actual.
+- [**Proyecto 3**](https://github.com/TsantiG/Angular_Crud_Con_API) - Página de un Crud en Angular con Creacion de API en php.
 
+
+## 📚 Proyectos Hechos Mientras Aprendo.
+
+- [**Proyecto 1**](https://github.com/TsantiG/Aprendiendo_Angular1) - Página de Gestion de Proyectos
+- [**Proyecto 2**]() - Por Subir.
+- [**Proyecto 3**]() -  Por Subir.
 
 ## 🛠️ Tecnologías y Herramientas
 
