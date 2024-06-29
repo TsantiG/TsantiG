@@ -1,4 +1,7 @@
-<h1 style="color: blue;">👋 Hi, I’m @TsantiG</h1>
+<h1>👋 Hi, I’m @TsantiG</h1>
+
+
+
 <h3>My interests</h3>
 
 
