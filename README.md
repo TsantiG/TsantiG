@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m @TsantiG</h1>
 
+![Mi Banner](https://github.com/TsantiG/IMG/https://github.com/TsantiG/IMG/blob/main/Medellin-PlazaBotero-IMG.jpeg?raw=true.jpg)
 
 
 <h3>My interests</h3>
