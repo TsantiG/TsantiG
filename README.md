@@ -24,6 +24,8 @@
   <img src="https://github.com/TsantiG/IMG/blob/main/laravel.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
    <img src="https://github.com/TsantiG/IMG/blob/main/kotlin-2-logo.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
    <img src="https://github.com/TsantiG/IMG/blob/main/Javascript_badge.svg.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
+  <img src="https://github.com/TsantiG/IMG/blob/main/file_type_angular_icon_130754.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
+  <img src="https://github.com/TsantiG/IMG/blob/main/python_logo_icon_216351.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
    <img src="https://github.com/TsantiG/IMG/blob/main/Git-Logo.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
   <img src="https://github.com/TsantiG/IMG/blob/main/226777.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/1199128.png?raw=true" width="100"  style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
