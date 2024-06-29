@@ -21,8 +21,10 @@
   <img src="https://github.com/TsantiG/IMG/blob/main/919827.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/919826.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/5968332.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
-  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284965.webp?token=GHSAT0AAAAAACUHGOSQBRTJG2AQYJIKJTXSZT7RMBQ" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
-  <img src="https://raw.githubusercontent.com/TsantiG/IMG/main/2284686.webp?token=GHSAT0AAAAAACUHGOSQ7WRKXOZ5XPC4UVJCZT7RMSA" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
+  <img src="https://github.com/TsantiG/IMG/blob/main/laravel.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
+   <img src="https://github.com/TsantiG/IMG/blob/main/kotlin-2-logo.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
+   <img src="https://github.com/TsantiG/IMG/blob/main/Javascript_badge.svg.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
+   <img src="https://github.com/TsantiG/IMG/blob/main/Git-Logo.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;" />
   <img src="https://github.com/TsantiG/IMG/blob/main/226777.png?raw=true" width="100" style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
   <img src="https://github.com/TsantiG/IMG/blob/main/1199128.png?raw=true" width="100"  style="margin: 10px; border: 2px solid #ccc; box-shadow: 3px 3px 5px #888888;"  />
 </p>
