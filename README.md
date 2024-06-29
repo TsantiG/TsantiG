@@ -17,7 +17,7 @@
 
 ## 📚 Proyectos Hechos Mientras Aprendo.
 
-- [**Proyecto 1**](https://github.com/TsantiG/Aprendiendo_Angular1) - Página de Gestion de Proyectos
+- [**Proyecto 1**](https://github.com/TsantiG/Aprendiendo_Angular1) - Aprendiendo Angular Desarrollo de Conseptos.
 - [**Proyecto 2**]() - Por Subir.
 - [**Proyecto 3**]() -  Por Subir.
 
