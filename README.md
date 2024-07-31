@@ -21,6 +21,12 @@
 - [**Proyecto 2**]() - Por Subir.
 - [**Proyecto 3**]() -  Por Subir.
 
+## 🎒 Entregables Clase.
+
+- [**Proyecto 1 JS**](https://github.com/TsantiG/Proyec_js_Clase_2) - JavaScritp.
+- [**Proyecto 2**]() - Por Subir.
+- [**Proyecto 3**]() -  Por Subir.
+
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center" Style="backgraund-color: white">
