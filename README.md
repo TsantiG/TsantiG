@@ -1,9 +1,9 @@
 
-<h1>👋 Hi, I’m @TsantiG / Hola,Yo Soy @TsantiG</h1>
+<h1>👋 Hi, I’m @TsantiG / Hola, Soy @TsantiG</h1>
 
 <h3>🚀 Mis intereses</h3>
 
-<p>- 👀 Me interesa la programación y el diseño en particular, además de cuidarme para tener una buena salud física.</p> <br>
+<p>- 👀 Me interesa en particular la programación y el diseño, además de cuidarme para tener una buena salud física.</p> <br>
 <p>- 🌱Actualmente estoy aprendiendo ciencia de datos y  desarrollo de aplicaciones moviles además de mejorar conocimientos previos.</p>
 
 ![Mi Banner](https://github.com/TsantiG/IMG/blob/main/programacion.jpg?raw=true)
