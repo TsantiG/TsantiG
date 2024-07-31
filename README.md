@@ -23,7 +23,7 @@
 
 ## 🎒 Entregables Clase.
 
-- [**Proyecto 1 JS**](https://github.com/TsantiG/Proyec_js_Clase_2) - JavaScritp.
+- [**Proyecto 1 JS**](https://github.com/TsantiG/Proyec_js_Clase_2) - JavaScritp Clase 2.
 - [**Proyecto 2**]() - Por Subir.
 - [**Proyecto 3**]() -  Por Subir.
 
