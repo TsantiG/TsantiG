@@ -29,7 +29,7 @@
 - [**Proyecto 3**](https://github.com/TsantiG/JavaScript-API/tree/santiago) -  Java clase 4 Api.
 
 ## Seguridad
--- [**Proyecto 1 JS**](https://github.com/TsantiG/FuncionEncriptadobasico) - Encriptar un texto.
+- [**Proyecto 1 JS**](https://github.com/TsantiG/FuncionEncriptadobasico) - Encriptar un texto.
 
 ## 🛠️ Tecnologías y Herramientas
 
