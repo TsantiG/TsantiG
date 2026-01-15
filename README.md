@@ -1,5 +1,5 @@
 
-<h1>👋 Hola, soy Santiago <\n>
+<h1>👋 Hola, soy Santiago <br>
   desarrollador y analista de software </h1>
 
 <h3>🚀 Mis intereses</h3>
