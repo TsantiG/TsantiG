@@ -14,7 +14,7 @@
 - [**Proyecto 2**](https://github.com/TsantiG/rep_Rueda-De-La-Vida.git) - Página para evaluar condicion de empleados con python y flask.
 - [**Proyecto 3**](https://github.com/TsantiG/Aplicativo-de-Recetas) - Página de guardar, compartir y comentar recetas de cocina con Astro y typescrypt.
 - [**Proyecto 4**](https://github.com/TsantiG/pagina_Gestion_De_Proyectos) - Página de Gestion de Proyectos con php.
-- [**Proyecto 5**](https://github.com/TsantiG/API_CLIMA) - Página Para Mostrar El Pronostico Del Clima y El Clima Actual con angular y js.
+- [**Proyecto 5**](https://github.com/TsantiG/API_CLIMA) - Página Para Mostrar El Pronostico Del Clima y El Clima Actual con angular y js, manejo de apis.
 - [**Proyecto 6**](https://github.com/TsantiG/Angular_Crud_Con_API) - Página de un Crud en Angular con Creacion de API en php.
 
 
