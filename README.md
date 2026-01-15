@@ -1,5 +1,5 @@
 
-<h1>👋 Hi, I’m @TsantiG / Hola, Soy @TsantiG</h1>
+<h1>👋 Hola, soy Santiago desarrollador y analista de software </h1>
 
 <h3>🚀 Mis intereses</h3>
 
